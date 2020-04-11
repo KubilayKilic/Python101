@@ -1,3 +1,5 @@
+#@author: kaan
+
 9 #integer
 9.2 #float
 "Zeus" #string
